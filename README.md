@@ -41,7 +41,6 @@ This project is a **Car Rental Management System**, designed as a web-based appl
 
 > "It is useful for car booking agencies that are specialized in hiring cabs to customers. Using this system, many car-booking agencies are moving ahead to become pioneers in the vehicle rental industry by completely focusing on customers. Using this system it is very easy for customers to book a car online and for car-booking agencies to track their booking online. So it is also very useful for car booking agencies. It is an online system through which customers can view available cabs, register the cabs, view profiles, and book cabs. Most people use cab service for their daily transportation needs. It will simplify the task and reduce the paperwork. Using this car booking management system, car owners can also become partners of car booking agencies by giving their cars for booking. Online Car Rental Management System is a web-based application that allows users to book a car online. From this system, car rental companies can manage all car bookings and customer information. Users can book cars and admin can confirm or cancel bookings on the basis of the availability of cars and drivers."
 >
-> — *from `home.html` project documentation*
 
 ## Setup Instructions
 
@@ -64,10 +63,6 @@ This project is a **Car Rental Management System**, designed as a web-based appl
 - `CarRentalApp/static/js/main.js`: Core frontend functionality, animations, and navigation.
 - `CarRentalApp/static/admin/`: Admin dashboard assets, plugins, and scripts.
 - `CarRentalApp/static/scss/`: SCSS source files for custom styles.
-
-## Contributing
-
-If you wish to contribute or extend the project, please fork the repository and submit a pull request.
 
 ## License
 
